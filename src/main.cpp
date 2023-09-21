@@ -1,4 +1,4 @@
-#include "main.h"
+#include <main.h>
 
 int main() {
 	const char* source = "x = 4 + 5";
